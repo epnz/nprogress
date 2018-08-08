@@ -1,5 +1,6 @@
 {
     "name": "epnz/nprogress",
     "description": "A nanoscopic progress bar. With realistic trickle animations to tell your users that something's happening!",
+	"minimum-stability":"dev",
 	"version": "0.2.0"
 }
