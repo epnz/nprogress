@@ -2,15 +2,7 @@
     "name": "epnz/nprogress",
     "description": "A nanoscopic progress bar. With realistic trickle animations to tell your users that something's happening!",
     "license": "MIT",
-    "minimum-stability":"stable",
+    "minimum-stability":"dev",
 	"version": "0.2.1",
-	"authors": [
-        {
-            "name": "EPNZ",
-            "email": "s@epnz.com"
-        }
-    ],
-    "require": {
-        "php": ">=5.3.0"
-    }
+    "require": {}
 }
